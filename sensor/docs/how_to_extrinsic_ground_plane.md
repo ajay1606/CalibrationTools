@@ -10,9 +10,15 @@ Capture a rosbag including lidar subject to calibration. The duration is arbitra
 
 <details><summary>ROSBAG Example</summary>
 <p>
+    
+    
+Sample Bag: https://drive.google.com/file/d/1LUH0eDlz6KlSUogET1l9e2ZvVlINzjZH/view?usp=share_link
+
 
 ```sh
 ros2 bag info f8c99b4f-a605-4178-97ef-58bfc39eabe9_2022-02-07-14-23-31_0.db3
+    
+    
 
 [INFO] [1632971360.501197002] [rosbag2_storage]: Opened database 'f8c99b4f-a605-4178-97ef-58bfc39eabe9_2022-02-07-14-23-31_0.db3' for READ_ONLY.
 
